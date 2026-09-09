@@ -6,7 +6,7 @@ Computer Science at the **University of Waterloo**. I build systems in **C++ and
 
 The questions I come back to: Where does the memory go? What is the bottleneck? How do I know the result is right?
 
-[LinkedIn](https://linkedin.com/in/jerry-wu) · [Email](mailto:sumsjerrywu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jerry-wu-03210a30b/) · [Email](mailto:sumsjerrywu@gmail.com)
 
 ## Start here
 
