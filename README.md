@@ -16,6 +16,19 @@ The questions I come back to: Where does the memory go? What is the bottleneck? 
 | **[TruthTone++](https://github.com/beanscrack/Truth-Tone)** | Audio deepfake detection with spectral analysis and a per-second confidence timeline. **Best Audio AI Hack, CxC 2026.** | [Watch the 36-hour hackathon build](https://www.youtube.com/watch?v=M-fwg9Zm7v8) · [Architecture and setup](https://github.com/beanscrack/Truth-Tone#technical-architecture) |
 | **[Claude–Codex Duo](https://github.com/beanscrack/claude-codex-duo)** | An experiment in coordinating a read-only planner and a code-writing implementer through a local message board and shared workspace. | [How the loop works](https://github.com/beanscrack/claude-codex-duo#claude-codex-duo) |
 
+## Open-source contributions
+
+I have contributed seven merged pull requests to codebases owned by other developers:
+
+- **[Haven-HV](https://github.com/1KingOfCurses1/Haven-HV/pulls?q=is%3Apr+author%3Abeanscrack+is%3Amerged)** — five merged PRs spanning core AI infrastructure, automation services, memory, and tests.
+- **[SkinSight](https://github.com/Anasthecode/SkinSight/pulls?q=is%3Apr+author%3Abeanscrack+is%3Amerged)** — two merged PRs delivering the ML implementation and frontend.
+
+Next: build a sustained contribution record in a larger, widely used project.
+
+## Production experience
+
+Across two software engineering internships, I have worked on infrastructure automation with Kubernetes, Helm, PostgreSQL, S3, and KMS; repaired authorization across 50+ services; built account-migration tooling; decoupled services with Kafka; improved CI; and shipped tested data pipelines for quantitative-finance systems.
+
 ## One engineering problem I’m working on
 
 **Running a 27B model on a 16 GB GPU.**
